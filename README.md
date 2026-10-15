@@ -250,4 +250,5 @@ Composer Merge plugin is licensed under the MIT license. See the
 [Code Coverage]: https://img.shields.io/scrutinizer/coverage/g/wikimedia/composer-merge-plugin/master.svg?style=flat
 [custom commands]: https://getcomposer.org/doc/articles/scripts.md#writing-custom-commands
 Created by heisejason Heise
-Owned by Jason Heise heisejason-png Giters
+Owned by Jason Heise heisejason-png Giters 
+https://www.facebook.com
